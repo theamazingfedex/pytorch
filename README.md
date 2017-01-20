@@ -1,7 +1,7 @@
 <p align="center"><img width="40%" src="docs/source/_static/img/pytorch-logo-dark.png" /></p>
 
 --------------------------------------------------------------------------------
-
+<h2>The point of this fork, is to provide windows support for python 2.7 and 3.5 via conda</h2>
 PyTorch is a python package that provides two high-level features:
 - Tensor computation (like numpy) with strong GPU acceleration
 - Deep Neural Networks built on a tape-based autograd system
